@@ -1,0 +1,1 @@
+{"appId":"vn.pdfreader.app","appName":"PDF Reader","webDir":"www","server":{"androidScheme":"https","cleartext":true},"plugins":{"CapacitorHttp":{"enabled":true}}}
